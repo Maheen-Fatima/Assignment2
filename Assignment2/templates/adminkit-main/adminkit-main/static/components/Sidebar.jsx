@@ -84,7 +84,7 @@ const Sidebar = () => {
                     <li className="sidebar-item">
                         <a className="sidebar-link" href="maps-google.html">
                             <i className="align-middle" data-feather="map"></i>
-                            <span className="align-middle">Maps</span>
+                            <span className="align-middle">Mapss</span>
                         </a>
                     </li>
                 </ul>
