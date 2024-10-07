@@ -78,7 +78,7 @@ const MetricsCards = () => {
                         <h1 className="mt-1 mb-3">64</h1>
                         <div className="mb-0">
                             <span className="text-danger"> <i className="mdi mdi-arrow-bottom-right"></i> -2.25% </span>
-                            <span className="text-muted">Since last week</span>
+                            <span className="text-muted">Since last weeek</span>
                         </div>
                     </div>
                 </div>
