@@ -31,7 +31,7 @@ const LatestProjects = () => {
                             <td className="d-none d-xl-table-cell">01/01/2023</td>
                             <td className="d-none d-xl-table-cell">31/06/2023</td>
                             <td><span className="badge bg-danger">Cancelled</span></td>
-                            <td className="d-none d-md-table-cell">William Harris</td>
+                            <td className="d-none d-md-table-cell">William Harriss</td>
                         </tr>
                         {/* More projects can be added here */}
                     </tbody>
